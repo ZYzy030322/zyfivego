@@ -1,0 +1,52 @@
+﻿生成启动时间为 2024/1/10/周三 15:42:52。
+     1>项目“C:\Users\Administrator\Desktop\SR\fiveGo\fiveGo\fiveGo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.9.4\5.9.4\msvc2015_64\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.9.4\5.9.4\msvc2015_64\include\QtCore /IC:\Qt\Qt5.9.4\5.9.4\msvc2015_64\include\QtGui /IC:\Qt\Qt5.9.4\5.9.4\msvc2015_64\include\QtANGLE /IC:\Qt\Qt5.9.4\5.9.4\msvc2015_64\include\QtWidgets /IC:\Qt\Qt5.9.4\5.9.4\msvc2015_64\include\QtNetwork /nologo /W1 /WX- /MP /O2 /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt fiveGo.cpp
+         fiveGo.cpp
+     1>c:\users\administrator\desktop\sr\fivego\fivego\HttpEngine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\SR\fiveGo\x64\Release\\fiveGo.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.9.4\5.9.4\msvc2015_64\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5Network.lib Qt5Cored.lib halconcpp.lib hdevenginecpp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Administrator\Desktop\SR\fiveGo\x64\Release\fiveGo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\SR\fiveGo\x64\Release\fiveGo.lib" /MACHINE:X64 x64\Release\BackgroundItem.obj
+         x64\Release\fiveGo.obj
+         x64\Release\HttpEngine.obj
+         x64\Release\main.obj
+         x64\Release\httpconnectionhandler.obj
+         x64\Release\httpconnectionhandlerpool.obj
+         x64\Release\httpcookie.obj
+         x64\Release\httpglobal.obj
+         x64\Release\httplistener.obj
+         x64\Release\httprequest.obj
+         x64\Release\httprequesthandler.obj
+         x64\Release\httpresponse.obj
+         x64\Release\httpsession.obj
+         x64\Release\httpsessionstore.obj
+         x64\Release\staticfilecontroller.obj
+         x64\Release\dualfilelogger.obj
+         x64\Release\filelogger.obj
+         x64\Release\logger.obj
+         x64\Release\logmessage.obj
+         x64\Release\requesthandler.obj
+         x64\Release\template.obj
+         x64\Release\templatecache.obj
+         x64\Release\templateloader.obj
+         x64\Release\moc_fiveGo.obj
+         x64\Release\moc_BackgroundItem.obj
+         x64\Release\moc_httpconnectionhandler.obj
+         x64\Release\moc_httpconnectionhandlerpool.obj
+         x64\Release\moc_HttpEngine.obj
+         x64\Release\moc_requesthandler.obj
+         x64\Release\moc_templateloader.obj
+         x64\Release\moc_templatecache.obj
+         x64\Release\moc_logger.obj
+         x64\Release\moc_filelogger.obj
+         x64\Release\moc_dualfilelogger.obj
+         x64\Release\moc_staticfilecontroller.obj
+         x64\Release\moc_httpsessionstore.obj
+         x64\Release\moc_httprequesthandler.obj
+         x64\Release\moc_httplistener.obj
+         x64\Release\qrc_fiveGo.obj
+         fiveGo.vcxproj -> C:\Users\Administrator\Desktop\SR\fiveGo\x64\Release\fiveGo.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\SR\fiveGo\fiveGo\fiveGo.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.50
